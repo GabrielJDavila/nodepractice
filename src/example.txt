@@ -1,0 +1,2 @@
+Some text here. La de da da de da.
+I am just writing some filler words so that the asyncExample.mjs file will read it.
